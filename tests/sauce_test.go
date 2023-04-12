@@ -1,4 +1,4 @@
-package selenium_test
+package tests
 
 import (
 	"flag"

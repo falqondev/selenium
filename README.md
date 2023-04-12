@@ -1,4 +1,4 @@
-# The most complete, best-tested WebDriver client for Go
+# The most complete, ~~best-tested WebDriver client for Go~~
 
 [![GoDoc](https://godoc.org/github.com/falqondev/selenium?status.svg)](https://godoc.org/github.com/falqondev/selenium)
 [![Travis](https://travis-ci.org/tebeka/selenium.svg?branch=master)](https://travis-ci.org/tebeka/selenium)
