@@ -3,7 +3,7 @@ package selenium_test
 import (
 	"testing"
 
-	"github.com/go-auxiliaries/selenium"
+	"github.com/falqondev/selenium"
 )
 
 func TestIsDisplay(t *testing.T) {

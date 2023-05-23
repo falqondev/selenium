@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-auxiliaries/selenium/tests/testconf"
+	"github.com/falqondev/selenium/tests/testconf"
 
-	"github.com/go-auxiliaries/selenium"
+	"github.com/falqondev/selenium"
 
 	"github.com/BurntSushi/xgbutil"
 	"github.com/google/go-cmp/cmp"

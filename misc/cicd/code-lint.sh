@@ -4,7 +4,7 @@ set -e
 
 st=0
 for pkg in $(go list ./...); do
-  local_pkg=$( echo "$pkg" | grep -oP "^github.com/go-auxiliaries/selenium/\K.*" || true)
+  local_pkg=$( echo "$pkg" | grep -oP "^github.com/falqondev/selenium/\K.*" || true)
   [ -z "$local_pkg" ] && continue
 
   echo "goimports -d $local_pkg"
